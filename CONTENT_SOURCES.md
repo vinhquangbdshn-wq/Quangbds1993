@@ -25,3 +25,6 @@ Eleven images from three supplied ZIP archives: living room (6), main bedroom (3
 Do not invent current prices, sales incentives, legal assurances, construction status, delivery dates or investment returns. Some individual floor-plan images on the supplied source differ from the overall A/B floor plan; the landing page uses the overall reference floor plan and asks visitors to confirm individual-unit documents. Model interiors are not assigned to a particular floor-plan type.
 
 The existing contact mechanism remains a visitor-reviewed mailto draft to info@anlac.vn. No CRM or automatic lead collection has been added.
+
+## Personal advisor — approved 2026-11-05
+User approved Master Vinh Quang and biography, supplied portrait, Zalo group QR, telephone 0975483990, email Vinhquang.bdshn@gmail.com, Facebook and TikTok links. Form drafts addressed to advisor; no server storage. QR remains intact and opens enlarged. No group URL guessed or achievements claimed.
