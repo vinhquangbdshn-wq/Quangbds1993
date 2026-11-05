@@ -27,4 +27,7 @@ Do not invent current prices, sales incentives, legal assurances, construction s
 The existing contact mechanism remains a visitor-reviewed mailto draft to info@anlac.vn. No CRM or automatic lead collection has been added.
 
 ## Personal advisor — approved 2026-11-05
-User approved Master Vinh Quang and biography, supplied portrait, Zalo group QR, telephone 0975483990, email Vinhquang.bdshn@gmail.com, Facebook and TikTok links. Form drafts addressed to advisor; no server storage. QR remains intact and opens enlarged. No group URL guessed or achievements claimed.
+User approved Master Vinh Quang and biography, supplied portrait, Zalo group QR, telephone 0975483990, email Vinhquang.bdshn@gmail.com, Facebook and TikTok links. Form originally drafted email; replaced with consent-based private Google Sheets lead capture on 2026-11-05. QR remains intact and opens enlarged. No group URL guessed or achievements claimed.
+
+## Lead capture — 2026-11-05
+User authorized direct registration into Google Sheets. Private workbook ID 18yVlQhcHajrlI19DzYl3sn51pcNaVjvvPZzElWm1np8. Form uses server-side authenticated webhook; data is never returned publicly. Privacy/consent updated; no automated email promises.
